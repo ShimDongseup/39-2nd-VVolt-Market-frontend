@@ -1,4 +1,4 @@
-# <p align="center">🛍️ VVolt Martket
+# <p align="center">⚡️ VVolt Market
 
 <P align="center">📆 2022.11.28 ~ 2022.12.09
 
