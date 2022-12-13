@@ -2,7 +2,7 @@
 
 <P align="center">📆 2022.11.28 ~ 2022.12.09
 
-## 🏆 VVolt Martket Goal
+## 🏆 VVolt Market Goal
 
 - 사용자간 중고거래를 할 수 있는 서비스 제공.
 - 중고 거래 특성을 고려하여 사용자위치기반 주변 물건을 추천해주는 기능 제공
@@ -19,11 +19,11 @@
 <img width="840" alt="스크린샷 2022-12-08 오전 1 35 46" src="https://user-images.githubusercontent.com/108253922/206603252-88d36410-961b-4ac1-85a2-a3b7dae6e694.png">
 
 
-## 👩‍👩‍👧‍👦 VVolt Martket 팀
+## 👩‍👩‍👧‍👦 VVolt Market 팀
 
 - `BE` 김한솔, 박상욱, 송철진 / `FE` 강지민, 심동섭, 정효원, 조은혜
 
-## 📌 VVolt Martket Features
+## 📌 VVolt Market Features
 
 - 🟢 `한솔 BE` - DB구축, 카카오API 로그인(POST), 주문목록(GET), 제품 리스트 (GET), 제품 detailed (GET)
 - 🟢 `상욱 BE` - DB구축, 결제 정보 (POST), 토스페이 API, 후기 (GET/POST/PATCH/DELETE), 찜 (GET/POST/DELETE), 팔로워 & 팔로잉 (GET/POST/DELETE)
@@ -35,16 +35,16 @@
 - 🔵 `은혜 FE` - nav, side바, 상품 디테이 페이지
 
 
-## 🛠 VVolt Martket Tools
+## 🛠 VVolt Market Tools
 
 - `Notion`, `Trello`, `Git-book`, `Table plus`, `Git`, `Slack`
 
-## 🛠 VVolt Martket Engineering Stack
+## 🛠 VVolt Market Engineering Stack
 
 - 💻 BE:
-  - `JavaScript`, `Node.js`, `AWS`, `MySql`
+  - `JavaScript`, `Node.js`, `AWS`, `MySql`, 'Amazon S3'
 - 💻 FE:
-  - `JavaScript`, `React`, `styled-component`
+  - `JavaScript`, `React`, `styled-components`
 
 ## 🚀 구현 기능
 
