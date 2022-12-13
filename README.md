@@ -55,7 +55,7 @@
 1. 상품 구매
 
 ## 회고 블로깅
-- <a href="https://velog.io/@dkwmspzk/VVolt-Market-프로젝트-회고">📎 BE Github로 이동</a>
+- <a href="https://velog.io/@dkwmspzk/VVolt-Market-프로젝트-회고">📎 블로그 회고글로 이동</a>
 
 <br>
 
