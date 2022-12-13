@@ -10,6 +10,9 @@
 ## 📼 DEMO
 
 - <a href="https://www.youtube.com/watch?v=UDNfYsCpGR4">📎 구동 영상</a>
+  
+## Back-end github
+- <a href="https://github.com/wecode-bootcamp-korea/39-2nd-VVolt-Market-backend">📎 BE Github로 이동</a>  
 
 ## 👩‍💻 DB Modeling
 
